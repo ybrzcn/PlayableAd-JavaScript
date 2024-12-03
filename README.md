@@ -1,4 +1,11 @@
-# Welcome to Playable Factory 🚀
+# Welcome to Playable Ad Game 🚀
+
+This was my Case Study.
+
+Some of the rules of this game are as follows: 
+You must click the letters to use it. 
+You can't drag your mouse on it.
+Enjoy!
 
 ## 🚀 Getting Started
 
